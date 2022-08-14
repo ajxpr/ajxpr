@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://giphy.com/gifs/xl3PTDWpXeYSNYIho4"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/xl3PTDWpXeYSNYIho4/giphy.gif"></h1>
 
 <h1 align="center">Hello There! :wave:</h1>
 
