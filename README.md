@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://media.giphy.com/media/xl3PTDWpXeYSNYIho4/giphy.gif"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/o99kz7Im6vrlK4duxW/giphy.gif"></h1>
+
 
 My name is Akshaj, which means a "thunderbolt", "diamond", and is also one of the numerous monikers given to Lord Vishnu. Since my childhood, I've been fascinated by superheroes and star wars. As a result, I aspire to be an astronomer. 
 
