@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/pB5ynWdF93sGhBySpQ/giphy.gif"></h1>
 
 
-My name is Akshaj, which means "thunderbolt", and "diamond", and is also one of the numerous names of Lord Vishnu. Since my childhood, I've been fascinated by superheroes and star wars. As a result, I aspire to be an Aerospace Engineer. 
+My name is Akshaj, which means "thunderbolt", and "diamond", and is also one of the numerous names of Lord Vishnu. Since my childhood, I've been fascinated by superheroes and star wars. As a result, I aspire to be an Data Scientist. 
 
 To prepare for my dream career as an Aspiring Aerospace Engineer, I'm honing my skills in maths, science, user research, design, programming, data science, and artificial intelligence through a variety of projects and internships.
 
