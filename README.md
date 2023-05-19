@@ -1,11 +1,17 @@
 <h1 align="center"><img src="https://media.giphy.com/media/pB5ynWdF93sGhBySpQ/giphy.gif"></h1>
 
 
-My name is Akshaj, which means "thunderbolt", and "diamond", and is also one of the numerous names of Lord Vishnu. Since my childhood, I've been fascinated by superheroes and star wars. As a result, I aspire to be an Data Scientist. 
+Hi, my name is Akshaj. 
 
-To prepare for my dream career as an Aspiring Aerospace Engineer, I'm honing my skills in maths, science, user research, design, programming, data science, and artificial intelligence through a variety of projects and internships.
+I am an aspiring data scientist with a passion for design and computing. I am driven by the endless possibilities of how data and design can come together to create meaningful and impactful experiences for users. I am constantly developing my skills in programming, data analysis, and visualization tools to stay at the forefront of these fields.
 
-I believe those user research, programming and data science skills will help in my career to acquire, store, and process vast amounts of unstructured space data and my Design, AI and storytelling skills will allow me to find patterns and predict and visualize insights through data storytelling skills.
+As a data scientist, I am dedicated to using data-driven insights to solve complex problems and create innovative solutions. I am proficient in statistical techniques and machine learning algorithms that enable me to analyze data and develop predictive models. My expertise in data visualization allows me to communicate insights to stakeholders in a clear and compelling way.
+
+Moreover, my passion for design goes beyond data analysis, and I have honed my skills in UI/UX design, graphic design, and web development. I believe that design is critical in creating engaging and user-friendly experiences and strive to apply my design skills to every project I work on.
+
+Overall, I am committed to continuous learning and growth in both the data science and design fields, and I am eager to tackle new challenges and opportunities.
+
+My Top skills: User Experience Design (UED) • Figma (Software) • Python (Programming Language) • Julia (Programming Language) • Negotiations
 
 [linkedin]: https://www.linkedin.com/in/ajxpr
 [github]: https://github.com/ajxpr
