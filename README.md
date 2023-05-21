@@ -25,4 +25,4 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajxpr&label=visitors&color=0066FF&style=flat-square" alt="akshaj-piri" /> </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=github-dark-blue" alt="akshaj-piri" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=nightowl" alt="akshaj-piri" /></p>
