@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/banner.gif)](https://www.akshajpiri.dev)
+[![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/Untitled design.gif)](https://www.akshajpiri.dev)
 
 Hi, my name is Akshaj. 
 
