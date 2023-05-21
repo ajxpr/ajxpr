@@ -28,3 +28,6 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=nightowl" alt="akshaj-piri" /></p>
 
 ![Akshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajxpr&langs_count=8&show_icons=true&theme=nightowl)]
+
