@@ -2,8 +2,6 @@
 
 <h2>ABOUT ME</h2>
 
-My name is Akshaj. 
-
 I am an aspiring data scientist with a passion for design and computing. I am driven by the endless possibilities of how data and design can come together to create meaningful and impactful experiences for users. I am constantly developing my skills in programming, data analysis, and visualization tools to stay at the forefront of these fields.
 
 As a data scientist, I am dedicated to using data-driven insights to solve complex problems and create innovative solutions. I am proficient in statistical techniques and machine learning algorithms that enable me to analyze data and develop predictive models. My expertise in data visualization allows me to communicate insights to stakeholders in a clear and compelling way.
@@ -20,9 +18,13 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 [github]: https://github.com/ajxpr
 [dribbble]: https://dribbble.com/ajxpr
 
-[<img align="center" alt="akjxpr | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="center" alt="akjxpr | GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
-[<img align="center" alt="akjxpr | Dribbble" width="30px" src="https://img.icons8.com/fluent/48/000000/dribbble.png" />][dribbble]
+<span align="center">
+
+[<img alt="akjxpr | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img alt="akjxpr | GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
+[<img alt="akjxpr | Dribbble" width="30px" src="https://img.icons8.com/fluent/48/000000/dribbble.png" />][dribbble]
+  
+</span>
 
 <span align="center">
   
