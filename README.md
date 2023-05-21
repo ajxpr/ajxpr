@@ -1,5 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/pB5ynWdF93sGhBySpQ/giphy.gif"></h1>
-
+<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VlZTE4MmNmZjQ3YTBmNzk1Mjg3OGZmZmM2MzBiYjY5YTRlNjdjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UQZSvwjoPRcmXzOEBZ/giphy.gif"></h1>
 
 Hi, my name is Akshaj. 
 
