@@ -23,8 +23,6 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 <br>
 <br>
 
-
-
 <span align="center">
   
   [![Visits Badge](https://badges.strrl.dev/visits/ajxpr/ajxpr?style=for-the-badge&color=011627)](#)
@@ -32,9 +30,6 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
   [![Gists Badge](https://badges.strrl.dev/gists/ajxpr?style=for-the-badge&color=011627)](https://gist.github.com/ajxpr)
 
 </span>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajxpr&label=visitors&color=0066FF&style=flat-square" alt="akshaj-piri" /> </p>
-
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl" alt="akshaj-piri" /></p>
 
