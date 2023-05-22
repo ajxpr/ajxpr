@@ -53,3 +53,22 @@ Julia (Programming Language) • Negotiations
 [<img alt="ajxpr | Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>][Dribbble]
   
 </span>
+
+
+
+<h2 align="center">test/h2>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=python,html,java&theme=nightowl">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ajxpr&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ajxpr&theme=nightowl">
+</p> 
+
+
