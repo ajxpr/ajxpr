@@ -43,6 +43,8 @@ Julia (Programming Language) • Negotiations
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ajxpr&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0" />
 </p> 
 
+<br>
+
 <h2 align="center">CONNECT WITH ME ON</h2>
 
 [Linkedin]: https://www.linkedin.com/in/ajxpr
@@ -51,7 +53,7 @@ Julia (Programming Language) • Negotiations
 [Figma]: https://www.figma.com/@ajxpr
 [Dribbble]: https://dribbble.com/ajxpr
 
-<span align="center" style="margin:25px;">
+<span align="center">
   
 [<img style="padding:25px;" alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]<span></span>
 [<img style="padding:25px;" alt="ajxpr | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][Gmail]
