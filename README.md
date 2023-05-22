@@ -18,7 +18,7 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 [github]: https://github.com/ajxpr
 [dribbble]: https://dribbble.com/ajxpr
 
-<span align="center" padding: 25px>
+<span align="center">
 
 [<img alt="akjxpr | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img alt="akjxpr | GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
