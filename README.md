@@ -24,12 +24,19 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl" alt="akshaj-piri" /></p>
 
-<h2 align="center" style="width:20px">CONNECT WITH ME ON</h2>
+<h2 align="center">CONNECT WITH ME ON</h2>
 
-[mail]: mailto:akshaj.piri@gmail.com
-[linkedin]: https://www.linkedin.com/in/ajxpr
-[github]: https://github.com/ajxpr
-[dribbble]: https://dribbble.com/ajxpr
+[Gmail]: mailto:akshaj.piri@gmail.com
+[Linkedin]: https://www.linkedin.com/in/ajxpr
+[GitHub]: https://github.com/ajxpr
+[Dribbble]: https://dribbble.com/ajxpr
+[Figma]: https://www.figma.com/@ajxpr
+
+![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <span align="center">
 
