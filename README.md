@@ -60,7 +60,7 @@ Julia (Programming Language) • Negotiations
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajxpr&hide=css,php&theme=nightowl">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajxpr&hide=css,php,shell,dockerfile&theme=nightowl">
 </p>
 
 <p align = "center">
