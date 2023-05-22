@@ -14,6 +14,18 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 
 <h2>GITHUB STATS</h2>
 
+<span align="center">
+  
+  [![Visits Badge](https://badges.strrl.dev/visits/ajxpr/ajxpr?style=for-the-badge&color=011627)](#)
+  [![Repos Badge](https://badges.strrl.dev/repos/ajxpr?style=for-the-badge&color=011627)](https://github.com/ajxpr?tab=repositories)
+  [![Gists Badge](https://badges.strrl.dev/gists/ajxpr?style=for-the-badge&color=011627)](https://gist.github.com/ajxpr)
+
+</span>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl" alt="akshaj-piri" /></p>
+
+<h2>CONNECT WITH ME ON</h2>
+
 [linkedin]: https://www.linkedin.com/in/ajxpr
 [github]: https://github.com/ajxpr
 [dribbble]: https://dribbble.com/ajxpr
@@ -25,14 +37,3 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 [<img alt="akjxpr | Dribbble" width="30px" src="https://img.icons8.com/fluent/48/000000/dribbble.png" />][dribbble]
   
 </span>
-
-<span align="center">
-  
-  [![Visits Badge](https://badges.strrl.dev/visits/ajxpr/ajxpr?style=for-the-badge&color=011627)](#)
-  [![Repos Badge](https://badges.strrl.dev/repos/ajxpr?style=for-the-badge&color=011627)](https://github.com/ajxpr?tab=repositories)
-  [![Gists Badge](https://badges.strrl.dev/gists/ajxpr?style=for-the-badge&color=011627)](https://gist.github.com/ajxpr)
-
-</span>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl" alt="akshaj-piri" /></p>
-
