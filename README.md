@@ -53,12 +53,3 @@ Julia (Programming Language) • Negotiations
 [<img alt="ajxpr | Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>][Dribbble]
   
 </span>
-
-
-<button class="btn1" alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></button>
-
-
-<button style="margin:5px;">Button 1</button> 
-<button style="margin:5px;">Button 2</button>
-
-
