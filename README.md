@@ -34,7 +34,14 @@ Julia (Programming Language) • Negotiations
 
 </span>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl" alt="akshaj-piri"/></p>
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajxpr&hide=css,php,shell,dockerfile&theme=nightowl">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ajxpr&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0" />
+</p> 
 
 <h2 align="center">CONNECT WITH ME ON</h2>
 
@@ -53,16 +60,3 @@ Julia (Programming Language) • Negotiations
 [<img alt="ajxpr | Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>][Dribbble]
   
 </span>
-
-
-
-<h2 align="center">test</h2>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajxpr&hide=css,php,shell,dockerfile&theme=nightowl">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ajxpr&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0" />
-</p> 
