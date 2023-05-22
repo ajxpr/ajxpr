@@ -32,17 +32,12 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 [Dribbble]: https://dribbble.com/ajxpr
 [Figma]: https://www.figma.com/@ajxpr
 
-![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 <span align="center">
 
-[<img alt="ajxpr | Mail" width="30px" src="https://img.icons8.com/fluent/48/000000/mail.png" />][mail]
-[<img alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="ajxpr | GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
-[<img alt="ajxpr | Dribbble" width="30px" src="https://img.icons8.com/fluent/48/000000/dribbble.png" />][dribbble]
+[<img alt="ajxpr | Mail" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][mail]
+[<img alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin]
+[<img alt="ajxpr | GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][Github]
+[<img alt="ajxpr | Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />][Dribbble]
+[<img alt="ajxpr | Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />][Figma]
 
 </span>
