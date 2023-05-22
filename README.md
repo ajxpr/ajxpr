@@ -41,7 +41,7 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 <span align="center">
 
 [<img alt="ajxpr | Mail" width="30px" src="https://img.icons8.com/fluent/48/000000/mail.png" />][mail]
-[<img alt="ajxpr | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img alt="ajxpr | LinkedIn" width="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="ajxpr | GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
 [<img alt="ajxpr | Dribbble" width="30px" src="https://img.icons8.com/fluent/48/000000/dribbble.png" />][dribbble]
 
