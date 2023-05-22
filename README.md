@@ -24,7 +24,7 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl" alt="akshaj-piri" /></p>
 
-<h2 align="center">CONNECT WITH ME ON</h2>
+<h2 align="center" class="horizontalgap" style="width:10px">CONNECT WITH ME ON</h2>
 
 [mail]: mailto:akshaj.piri@gmail.com
 [linkedin]: https://www.linkedin.com/in/ajxpr
