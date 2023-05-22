@@ -23,6 +23,7 @@ eager to tackle new challenges and opportunities.
 My Top skills: User Experience Design (UED) • Figma (Software) • Python (Programming Language) • 
 Julia (Programming Language) • Negotiations
 ```
+<br>
 
 <h2 align="center">GITHUB STATS</h2>
 
@@ -35,6 +36,8 @@ Julia (Programming Language) • Negotiations
 </span>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nightowl" alt="akshaj-piri" /></p>
+
+<br>
 
 <h2 align="center">CONNECT WITH ME ON</h2>
 
