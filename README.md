@@ -44,7 +44,7 @@ Julia (Programming Language) • Negotiations
 [Figma]: https://www.figma.com/@ajxpr
 [Dribbble]: https://dribbble.com/ajxpr
 
-<span align="center">
+<span align="center" style="margin:25px;">
   
 [<img alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
 [<img alt="ajxpr | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][Gmail]
