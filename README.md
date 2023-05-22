@@ -55,8 +55,10 @@ Julia (Programming Language) • Negotiations
 </span>
 
 
-<button class="btn1" alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></button>
+<button class="btn1" alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></button>
 
-<button class="btn2">Click Me</button>
+
+<button style="margin:5px;">Button 1</button> 
+<button style="margin:5px;">Button 2</button>
 
 
