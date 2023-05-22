@@ -26,16 +26,16 @@ My Top skills: User Experience Design (UED) • Figma (Software) • Python (Pro
 
 <h2 align="center">CONNECT WITH ME ON</h2>
 
+[mail]: mailto:akshaj.piri@gmail.com
 [linkedin]: https://www.linkedin.com/in/ajxpr
 [github]: https://github.com/ajxpr
 [dribbble]: https://dribbble.com/ajxpr
-[mail]: mailto:akshaj.piri@gmail.com
 
 <span align="center">
 
-[<img alt="akjxpr | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img alt="akjxpr | GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
-[<img alt="akjxpr | Dribbble" width="30px" src="https://img.icons8.com/fluent/48/000000/dribbble.png" />][dribbble]
-[<img alt="akjxpr | Mail" width="30px" src="https://img.icons8.com/fluent/48/000000/e-mail.png" />][mail]
-  
+[<img alt="ajxpr | Mail" width="30px" src="https://img.icons8.com/fluent/48/000000/mail.png" />][mail]
+[<img alt="ajxpr | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img alt="ajxpr | GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
+[<img alt="ajxpr | Dribbble" width="30px" src="https://img.icons8.com/fluent/48/000000/dribbble.png" />][dribbble]
+
 </span>
