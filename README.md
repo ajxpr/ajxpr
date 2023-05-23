@@ -25,9 +25,11 @@ eager to tackle new challenges and opportunities.
 <h2 align="center">GITHUB STATS</h2>
 
 <span align="center">
+  
   [![Visits Badge](https://badges.strrl.dev/visits/ajxpr/ajxpr?style=for-the-badge&color=000000)](#)
   [![Repos Badge](https://badges.strrl.dev/repos/ajxpr?style=for-the-badge&color=000000)](https://github.com/ajxpr?tab=repositories)
   [![Gists Badge](https://badges.strrl.dev/gists/ajxpr?style=for-the-badge&color=000000)](https://gist.github.com/ajxpr)
+
 </span>
 
 <p align="center">
