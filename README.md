@@ -18,8 +18,7 @@ experiences and strive to apply my design skills to every project I work on.
 Overall, I am committed to continuous learning and growth in both the data science and design fields, and I am 
 eager to tackle new challenges and opportunities.
 
-My Top skills: User Experience Design (UED) • Figma (Software) • Python (Programming Language) • 
-Julia (Programming Language) • Negotiations
+My Top skills: User Experience Design (UED) • Figma • Python • Julia • Negotiations
 ```
 
 <h2 align="center">GITHUB STATS</h2>
