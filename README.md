@@ -19,6 +19,8 @@ Overall, I am committed to continuous learning and growth in both the data scien
 eager to tackle new challenges and opportunities.
 ```
 
+<br>
+
 <h2 align="center">TOP SKILLS</h2>
 <p align="center">User Experience Design (UED) • Figma • Python • Julia • Negotiations</p>
 
