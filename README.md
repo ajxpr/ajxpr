@@ -12,8 +12,8 @@ to analyze data and develop predictive models. My expertise in data visualizatio
 insights to stakeholders in a clear and compelling way.
 
 Moreover, my passion for design goes beyond data analysis, and I have honed my skills in UI/UX design, graphic 
-design, and web development. I believe that design is critical in creating engaging and user-friendly experiences 
-and strive to apply my design skills to every project I work on.
+design, and web development. I believe that design is critical in creating engaging and user-friendly 
+experiences and strive to apply my design skills to every project I work on.
 
 Overall, I am committed to continuous learning and growth in both the data science and design fields, and I am 
 eager to tackle new challenges and opportunities.
