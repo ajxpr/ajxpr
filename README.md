@@ -40,7 +40,6 @@ My Top skills: User Experience Design (UED) • Figma • Python • Julia • N
 
 <h2 align="center">CONNECT WITH ME ON</h2>
 
-<!--Links-->
 [Linkedin]: https://www.linkedin.com/in/akshajpiri
 [Gmail]: mailto:akshaj.piri@gmail.com
 [GitHub]: https://github.com/ajxpr
