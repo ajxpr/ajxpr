@@ -22,7 +22,7 @@ eager to tackle new challenges and opportunities.
 <h2 align="center">TOP SKILLS</h2>
 
 
-<img  src = "https://img.shields.io/badge/{User Experience Design (UED)}-{#FFFFFF}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white>
+<img  src = "https://img.shields.io/badge/{User Experience Design (UED)}-{FFFFFF}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white>
              
 <p align="center">User Experience Design (UED) • Figma • Python • Julia • Negotiations</p>
 
