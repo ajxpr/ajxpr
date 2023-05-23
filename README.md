@@ -1,6 +1,10 @@
 [![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/profile.png)](https://www.akshajpiri.dev)
 
 ```
+<h2 align="center">> Hello world! I am Akshaj Piri</h2>
+```
+
+```
 I am an aspiring data scientist with a passion for design and computing. I am driven by the endless 
 possibilities of how data and design can come together to create meaningful and impactful experiences for users.
 I am constantly developing my skills in programming, data analysis, and visualization tools to stay at the 
