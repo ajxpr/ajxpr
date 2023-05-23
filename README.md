@@ -32,7 +32,7 @@ eager to tackle new challenges and opportunities.
 
 </span>
 
-<p align = "center">
+<p align="center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=graywhite&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajxpr&hide=css,php,shell,dockerfile&theme=graywhite">
 </p>
@@ -51,7 +51,7 @@ eager to tackle new challenges and opportunities.
 
 <span align="center">
   
-[<img style="padding:25px;" alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]<span></span>
+[<img style="padding:25px;" alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
 [<img style="padding:25px;" alt="ajxpr | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][Gmail]
 [<img alt="ajxpr | GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][Github]
 [<img alt="ajxpr | Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>][Figma]
