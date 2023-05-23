@@ -1,23 +1,22 @@
 [![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/profile.png)](https://www.akshajpiri.dev)
 
 ```
-I'm an aspiring data scientist with a passion for design and computing. I am driven by the endless possibilities 
 I am an aspiring data scientist with a passion for design and computing. I am comstantly driven by the endless 
 possibilities of how data and design can come together to create meaningful and impactful experiences for users. 
 I am constantly developing my skills in programming, data analysis, and visualization tools to stay at the 
 forefront of these fields.
 
-As a data scientist, I am dedicated to using data-driven insights to solve complex problems and create innovative 
-solutions. I am proficient in statistical techniques and machine learning algorithms that enable me to analyze data 
-and develop predictive models. My expertise in data visualization allows me to communicate insights to stakeholders 
-in a clear and compelling way.
+As a data scientist, I am dedicated to using data-driven insights to solve complex problems and create 
+innovative solutions. I am proficient in statistical techniques and machine learning algorithms that enable me 
+to analyze data and develop predictive models. My expertise in data visualization allows me to communicate 
+insights to stakeholders in a clear and compelling way.
 
-Moreover, my passion for design goes beyond data analysis, and I have honed my skills in UI/UX design, graphic design, 
-and web development. I believe that design is critical in creating engaging and user-friendly experiences and strive 
-to apply my design skills to every project I work on.
+Moreover, my passion for design goes beyond data analysis, and I have honed my skills in UI/UX design, graphic 
+design, and web development. I believe that design is critical in creating engaging and user-friendly experiences 
+and strive to apply my design skills to every project I work on.
 
-Overall, I am committed to continuous learning and growth in both the data science and design fields, and I am eager 
-to tackle new challenges and opportunities.
+Overall, I am committed to continuous learning and growth in both the data science and design fields, and I am 
+eager to tackle new challenges and opportunities.
 
 My Top skills: User Experience Design (UED) • Figma (Software) • Python (Programming Language) • 
 Julia (Programming Language) • Negotiations
