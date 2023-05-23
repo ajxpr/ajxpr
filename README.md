@@ -47,7 +47,7 @@ Julia (Programming Language) • Negotiations
 
 <h2 align="center">CONNECT WITH ME ON</h2>
 
-[Linkedin]: https://www.linkedin.com/in/ajxpr
+[Linkedin]: https://www.linkedin.com/in/akshajpiri
 [Gmail]: mailto:akshaj.piri@gmail.com
 [GitHub]: https://github.com/ajxpr
 [Figma]: https://www.figma.com/@ajxpr
