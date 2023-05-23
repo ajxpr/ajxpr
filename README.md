@@ -55,6 +55,6 @@ eager to tackle new challenges and opportunities.
 [<img style="padding:25px;" alt="ajxpr | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][Gmail]
 [<img alt="ajxpr | GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][Github]
 [<img alt="ajxpr | Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>][Figma]
-[<img alt="ajxpr | Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=black"/>][Dribbble]
+[<img alt="ajxpr | Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>][Dribbble]
   
 </span>
