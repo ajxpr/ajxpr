@@ -1,8 +1,8 @@
 [![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/profile.png)](https://www.akshajpiri.dev)
 
-```
+
 <h1 align="center">> Hello world! I am Akshaj Piri</h1>
-```
+
 
 ```
 I am an aspiring data scientist with a passion for design and computing. I am driven by the endless 
