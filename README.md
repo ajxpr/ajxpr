@@ -40,8 +40,6 @@ My Top skills: User Experience Design (UED) • Figma • Python • Julia • N
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ajxpr&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0" />
 </p> 
 
-<br>
-
 <h2 align="center">CONNECT WITH ME ON</h2>
 
 [Linkedin]: https://www.linkedin.com/in/akshajpiri
