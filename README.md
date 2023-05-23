@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/profile.png)](https://www.akshajpiri.dev)
 
 ```
-<h2 align="center">> Hello world! I am Akshaj Piri</h2>
+<h1 align="center">> Hello world! I am Akshaj Piri</h1>
 ```
 
 ```
