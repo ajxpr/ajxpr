@@ -1,10 +1,10 @@
 [![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/profile.png)](https://www.akshajpiri.dev)
 
 ```
-I am an aspiring data scientist with a passion for design and computing. I am driven by the endless possibilities 
-of how data and design can come together to create meaningful and impactful experiences for users. 
-I am constantly developing my skills in programming, data analysis, and visualization tools to stay at the 
-forefront of these fields.
+I am an aspiring data scientist with a passion for design and programmer. I am driven by the endless 
+possibilities of how data and design can come together to create meaningful and impactful experiences 
+for users. I am constantly developing my skills in programming, data analysis, and visualization tools 
+to stay at the forefront of these fields.
 
 As a data scientist, I am dedicated to using data-driven insights to solve complex problems and create 
 innovative solutions. I am proficient in statistical techniques and machine learning algorithms that enable me 
