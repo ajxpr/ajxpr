@@ -1,4 +1,5 @@
 [![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/typewriter.gif)](https://www.akshajpiri.dev)
+
 ```
 I am an aspiring data scientist with a passion for design and computing. I am driven by the endless 
 possibilities of how data and design can come together to create meaningful and impactful experiences for users.
