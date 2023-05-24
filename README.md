@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/typewriter.gif)](https://www.akshajpiri.dev)
 
-<h2 align="center">ABOUT ME</h2>
+<h2 align="center"><samp>ABOUT ME</samp></h2>
 
 <p>
   <samp>I am an aspiring data scientist with a passion for design and computing. I am driven by the endless 
