@@ -2,8 +2,8 @@
 
 <h2 align="center">ABOUT ME</h2>
 
-```
-I am an aspiring data scientist with a passion for design and computing. I am driven by the endless 
+<p align="center">
+  <samp>I am an aspiring data scientist with a passion for design and computing. I am driven by the endless 
 possibilities of how data and design can come together to create meaningful and impactful experiences for users.
 I am constantly developing my skills in programming, data analysis, and visualization tools to stay at the 
 forefront of these fields.
@@ -19,7 +19,8 @@ experiences and strive to apply my design skills to every project I work on.
 
 Overall, I am committed to continuous learning and growth in both the data science and design fields, and I am 
 eager to tackle new challenges and opportunities.
-```
+  </samp>
+</p>
 
 <h2 align="center">TOP SKILLS</h2>
 
