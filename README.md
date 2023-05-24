@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/profile-banner.png)](https://www.akshajpiri.dev)
+[![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/typewriter.gif)](https://www.akshajpiri.dev)
 
 ```
 I am an aspiring data scientist with a passion for design and computing. I am driven by the endless 
