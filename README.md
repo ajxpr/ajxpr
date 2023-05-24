@@ -33,11 +33,6 @@ eager to tackle new challenges and opportunities.
 
 </span>
 
-<p align="center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ajxpr&theme=gotham&show_icons=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajxpr&hide=css,php,shell,dockerfile&theme=gotham">
-</p>
-
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=gotham" />
 </p>
