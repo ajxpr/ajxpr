@@ -7,17 +7,14 @@
 possibilities of how data and design can come together to create meaningful and impactful experiences for users.
 I am constantly developing my skills in programming, data analysis, and visualization tools to stay at the 
 forefront of these fields.
-
-As a data scientist, I am dedicated to using data-driven insights to solve complex problems and create 
+    As a data scientist, I am dedicated to using data-driven insights to solve complex problems and create 
 innovative solutions. I am proficient in statistical techniques and machine learning algorithms that enable me 
 to analyze data and develop predictive models. My expertise in data visualization allows me to communicate 
 insights to stakeholders in a clear and compelling way.
-
-Moreover, my passion for design goes beyond data analysis, and I have honed my skills in UI/UX design, graphic 
+    Moreover, my passion for design goes beyond data analysis, and I have honed my skills in UI/UX design, graphic 
 design, and web development. I believe that design is critical in creating engaging and user-friendly 
 experiences and strive to apply my design skills to every project I work on.
-
-Overall, I am committed to continuous learning and growth in both the data science and design fields, and I am 
+    Overall, I am committed to continuous learning and growth in both the data science and design fields, and I am 
 eager to tackle new challenges and opportunities.
   </samp>
 </p>
