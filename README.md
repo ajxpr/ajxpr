@@ -34,12 +34,12 @@ eager to tackle new challenges and opportunities.
 </span>
 
 <p align="center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=nord&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajxpr&hide=css,php,shell,dockerfile&theme=nord">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ajxpr&show_icons=true&theme=violet-punch&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajxpr&hide=css,php,shell,dockerfile&theme=violet-punch">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=nord" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=violet-punch" />
 </p>
 
 <h2 align="center">CONNECT WITH ME ON</h2>
