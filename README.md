@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/typewriter.gif)](https://www.akshajpiri.dev)
+[![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/.gif)](https://www.akshajpiri.dev)
 
 <h2 align="center"><samp>ABOUT ME</samp></h2>
 
@@ -34,7 +34,7 @@ eager to tackle new challenges and opportunities.
 </span>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=gotham" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=hacker" />
 </p>
 
 <h2 align="center"><samp>CONNECT WITH ME ON</samp></h2>
