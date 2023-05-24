@@ -19,11 +19,11 @@ eager to tackle new challenges and opportunities.
   </samp>
 </p>
 
-<h2 align="center">TOP SKILLS</h2>
+<h2 align="center"><samp>TOP SKILLS</samp></h2>
 
 <p align="center"><samp>User Experience Design (UED) • Figma • Python • Julia • Negotiations</samp></p>
 
-<h2 align="center">GITHUB STATS</h2>
+<h2 align="center"><samp>GITHUB STATS</samp></h2>
 
 <span align="center">
   
@@ -37,7 +37,7 @@ eager to tackle new challenges and opportunities.
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=gotham" />
 </p>
 
-<h2 align="center">CONNECT WITH ME ON</h2>
+<h2 align="center"><samp>CONNECT WITH ME ON</samp></h2>
 
 [Linkedin]: https://www.linkedin.com/in/akshajpiri
 [Gmail]: mailto:akshaj.piri@gmail.com
