@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/ajxpr/ajxpr/master/typewriter.gif)](https://www.akshajpiri.dev)
 
 <h2 align="center"><samp>ABOUT ME</samp></h2>
-
+```
 <p>
   <samp>I am an aspiring data scientist with a passion for design and computing. I am driven by the endless 
 possibilities of how data and design can come together to create meaningful and impactful experiences for users.
@@ -18,6 +18,7 @@ experiences and strive to apply my design skills to every project I work on.<br>
 eager to tackle new challenges and opportunities.
   </samp>
 </p>
+```
 
 <h2 align="center"><samp>TOP SKILLS</samp></h2>
 
