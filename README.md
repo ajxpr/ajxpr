@@ -21,7 +21,7 @@ eager to tackle new challenges and opportunities.
 
 <h2 align="center"><samp>TOP SKILLS</samp></h2>
 
-<p align="center"><samp>User Experience Design (UED) • Figma • Python • Julia • Negotiations</samp></p>
+<p align="center"><samp><b>User Experience Design (UED) • Figma • Python • Julia • Negotiations<b/></samp></p>
 
 <h2 align="center"><samp>GITHUB STATS</samp></h2>
 
