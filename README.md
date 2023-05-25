@@ -21,7 +21,7 @@ eager to tackle new challenges and opportunities.
 
 <h2 align="center"><samp>TOP SKILLS</samp></h2>
 
-<span align="center">
+<p align="center">
 
 <img style="padding:25px;" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img style="padding:25px;" alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
@@ -33,7 +33,7 @@ eager to tackle new challenges and opportunities.
 <img style="padding:25px;" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img style="padding:25px;" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   
-</span>
+</p>
 
 <h2 align="center"><samp>GITHUB STATS</samp></h2>
 
