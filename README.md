@@ -34,7 +34,7 @@ eager to tackle new challenges and opportunities.
 </span>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=hacker" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=hacker&border=38EB00&dates=EBEBEB&fire=EBEBEB" />
 </p>
 
 <h2 align="center"><samp>CONNECT WITH ME ON</samp></h2>
