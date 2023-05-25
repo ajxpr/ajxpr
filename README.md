@@ -37,21 +37,16 @@ eager to tackle new challenges and opportunities.
 <h2 align="center"><samp>GITHUB STATS</samp></h2>
 
 <span align="center">
-  
   [![Visits Badge](https://badges.strrl.dev/visits/ajxpr/ajxpr?style=for-the-badge&color=000000)](#)
   [![Repos Badge](https://badges.strrl.dev/repos/ajxpr?style=for-the-badge&color=000000)](https://github.com/ajxpr?tab=repositories)
   [![Gists Badge](https://badges.strrl.dev/gists/ajxpr?style=for-the-badge&color=000000)](https://gist.github.com/ajxpr)
-
 </span>
 
-<span align="center">
-  
+
+<span align="center">  
 [![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=black-ice&background=000000&ring=1F51FF&fire=1F51FF&currStreakLabel=1F51FF)](#)
 </span>
 
-<p align = "center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=black-ice&background=000000&ring=1F51FF&fire=1F51FF&currStreakLabel=1F51FF" />
-</p>
 
 <h2 align="center"><samp>CONNECT WITH ME ON</samp></h2>
 
